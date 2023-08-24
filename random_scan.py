@@ -1,4 +1,4 @@
-#usage python3 random.py example.com "<title>example" -t256
+#usage python3 random_scan.py example.com "<title>example" -t256
 
 import logging
 import os
